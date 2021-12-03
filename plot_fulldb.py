@@ -201,6 +201,7 @@ if __name__ ==  '__main__':
     # do_wide_errors_molecule(errors)
     do_optimal_fitparams_molecules(errors)
     # do_wide_errors_molecule2(errors)
+    do_spectrum_error_function(expt, pred, "PTZ_1", "M06")
 
     # to show a subset of these databases: errors[['functional','molecule']]
     # errors_r2 = errors[errors['error_function'] == 'r_square']
