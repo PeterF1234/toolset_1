@@ -1,0 +1,9 @@
+%chk=cp.chk
+#p m06l/def2TZVP opt freq=noraman nosymm int=ultrafine scrf=(SMD,solvent=SLVT)
+
+Title
+
+CH MU
+COORD
+
+

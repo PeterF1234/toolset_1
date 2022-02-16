@@ -1,0 +1,9 @@
+%chk=cp.chk
+#p wB97XD/def2TZVP opt freq=noraman nosymm int=(Acc2E=11,ultrafine) scrf=(SMD,solvent=SLVT)
+
+Title
+
+CH MU
+COORD
+
+

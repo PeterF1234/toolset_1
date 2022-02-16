@@ -1,0 +1,9 @@
+%chk=cp.chk
+#p b3lyp/def2TZVP opt freq=noraman nosymm int=ultrafine scrf=(SMD,solvent=SLVT) EmpiricalDispersion=GD3BJ
+
+Title
+
+CH MU
+COORD
+
+
